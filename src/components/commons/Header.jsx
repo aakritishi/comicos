@@ -12,16 +12,16 @@ const Header = () => {
             <FaRegUser size={22}/>
             <IoCartOutline size={28}/>
         </section>
-        <section className='grid grid-cols-[15%_60%_25%] items-center w-full bg-black text-white py-3'>
+        <section className='grid grid-cols-[15%_60%_25%] items-center w-full bg-[#07070A] text-white py-3'>
             <div>
                 <img src={logo} alt="log-alt-text" className='h-12 w-14 rounded-full ml-6'/>
             </div>
-            <div className=''>
+            <div className='flex justify-center gap-3 lg:gap-10 text-lg font-medium'>
                 <Link to="/" className=''>Home</Link>
                 <Link to="/shop" className=''>Shop</Link>
                 <Link to="/contact" className=''>Contact</Link>
             </div>
-            <div>
+            <div className='w-[92%]'>
                 <Input type="text" name="search" placeholder="Search..." />
             </div>
         </section>

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image": "gallery1.jpeg",
+        "title": "Dragon Ball Figure"
+    },
+    {
+        "id": 2,
+        "image": "gallery2.jpeg",
+        "title": "Naruto manga set + Pokemon Mini Figures"
+    },
+    {
+        "id": 3,
+        "image": "gallery3.jpeg",
+        "title": "Ash with Trophy"
+    }
+]
