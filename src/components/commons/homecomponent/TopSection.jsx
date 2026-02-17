@@ -5,7 +5,7 @@ import Button from "../../ui/Button";
 const TopSection = () => {
   return (
     <div className="grid grid-cols-1 md:flex md:justify-center w-[94%] md:w-[70%] mx-auto gap-3 items-center p-12">
-      <img src={image} className="h-[346px] w-[197px]" />
+      <img src={image} className="h-86.5 w-49.25" />
       <div>
         <h1 className="font-medium text-[48px]">Ultimate Anime Gear</h1>
         <h2 className="font-extrabold text-[32px] text-[#07070A]">
