@@ -1,7 +1,7 @@
 import React from 'react'
-import TopSection from '../components/commons/homecomponent/TopSection'
-import CategorySection from '../components/commons/homecomponent/CategorySection'
-import DescriptionSection from '../components/commons/homecomponent/DescriptionSection'
+import TopSection from '../components/homecomponent/TopSection'
+import CategorySection from '../components/homecomponent/CategorySection'
+import DescriptionSection from '../components/homecomponent/DescriptionSection'
 
 const Home = () => {
   return (

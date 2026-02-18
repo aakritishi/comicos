@@ -1,6 +1,6 @@
 import React from "react";
-import image from "../../../assets/topsecimage.png";
-import Button from "../../ui/Button";
+import image from "../../assets/topsecimage.png";
+import Button from "../ui/Button";
 
 const TopSection = () => {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
-import Button from '../../ui/Button'
-import gallery1 from "../../../assets/gallery/gallery6.jpeg";
+import Button from '../ui/Button'
+import gallery1 from "../../assets/gallery/gallery6.jpeg";
 
 const DescriptionSection = () => {
   return (

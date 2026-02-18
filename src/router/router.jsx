@@ -3,6 +3,7 @@ import MainLayout from "../components/layout/MainLayout";
 import Home from "../pages/Home";
 import Shop from "../pages/Shop";
 import Contact from "../pages/Contact";
+import Gallery from "../pages/Gallery";
 
 const router = createHashRouter([
   {
@@ -20,6 +21,10 @@ const router = createHashRouter([
       {
         path: "contact",
         element: <Contact />,
+      },
+      {
+        path: "gallery",
+        element: <Gallery/>
       }
     ],
   },

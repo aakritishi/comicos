@@ -11,9 +11,9 @@ const Footer = () => {
         <div>
           <h1 className="text-[24px] font-medium"> Store Info</h1>
           <ul className="text-[20px] font-normal my-3">
-            <li className="font-normal mb-2">123 Anime Street, Akihabara Plaza, Nepal </li>
-            <li className="font-normal mb-2">Mon–Fri: 10am–8pm JST </li>
-            <li className="font-normal mb-2">Email: support@animegalaxystore.com </li>
+            <li className="font-normal mb-2">Gabahal Rd, Lalitpur</li>
+            <li className="font-normal mb-2">Sun–Fri: 10am–8pm JST </li>
+            <li className="font-normal mb-2">Email: roshan.namikaze7@gmail.com</li>
             <li className="font-normal mb-2">Phone: +977 9803819996</li>
           </ul>
         </div>
