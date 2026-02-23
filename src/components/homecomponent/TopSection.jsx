@@ -1,6 +1,7 @@
 import React from "react";
 import image from "../../assets/topsecimage.png";
 import Button from "../ui/Button";
+import { Link } from "react-router-dom";
 
 const TopSection = () => {
   return (
@@ -15,7 +16,9 @@ const TopSection = () => {
           Action figures, streetwear & manga -all in one place
         </h3>
         <div className="flex justify-center items-center mt-5">
-          <Button>Shop now</Button>
+          <Button>
+            <Link to="/shop">Shop now</Link>
+          </Button>
         </div>
       </div>
     </div>
