@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "icon": "FaQuestionCircle",
+    "title": "Need Assistance?",
+    "description": "Our support team is available during working hours. Call us directly or send a message — we usually respond within a few hours."
+  },
+  {
+    "id": 2,
+    "icon": "IoShieldCheckmarkSharp",
+    "title": "Trust & Heritage",
+    "description": "Serving the Community Since 1964: Your trusted comic store for authentic anime merchandise, manga, collectibles, and fandom essentials."
+  }
+]

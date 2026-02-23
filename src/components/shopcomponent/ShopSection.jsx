@@ -40,7 +40,7 @@ const ShopSection = () => {
         <h2 className='text-[24px] font-normal'>Here’s anime merch you will love</h2>
         <div className='grid grid-cols-1 md:grid-cols-3 gap-5 w-full mx-auto mt-5'>
             {shop.map((data)=>(
-                <div key={data.id} className='bg-[#d6d6da] p-4 my-4 rounded-t-lg'>
+                <div key={data.id} className='bg-[#dcd9d9] p-4 my-4 rounded-t-lg'>
                     <img src={imageMap[data.image]} alt={data.title} className='w-full h-75 object-cover rounded-md'/>
                     <h1 className='font-normal text-[24px] text-center mt-3'>{data.title}</h1>
                     <h1 className='font-normal text-[24px] text-center'>Rs {data.price}</h1>

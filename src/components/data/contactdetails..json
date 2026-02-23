@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "FaPhone",
+        "title": "Phone",
+        "description": "+977 9803819996"
+    },
+    {
+        "id": 2,
+        "icon": "MdEmail",
+        "title": "Email",
+        "description": "roshan.namikaze7@gmail.com"
+    },
+    {
+        "id": 3,
+        "icon": "FaLocationDot",
+        "title": "Location",
+        "description": "Gabahal Rd, Lalitpur"
+    },
+    {
+        "id": 4,
+        "icon": "FaClock",
+        "title": "Openning Hours",
+        "description": "Whole week, 10:00 AM - 8:00 PM"
+    }
+]

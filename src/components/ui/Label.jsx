@@ -1,9 +1,9 @@
 import React from "react";
 
-const Label = ({ name }) => {
+const Label = ({ children }) => {
   return (
     <div>
-      <label className="block text-gray-700 font-bold mb-2">{name}</label>
+      <label className="block text-[#07070A] font-bold mb-2 mt-3">{children}</label>
     </div>
   );
 };
