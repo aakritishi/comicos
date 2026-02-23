@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaRegUser } from "react-icons/fa";
 import { IoCartOutline } from "react-icons/io5";
 import logo from "../../assets/logo.jpg";
+import comicoslogo from "/comicos-logo.jpeg";
 import { Link } from "react-router-dom";
 import Input from "../ui/Input";
 import { IoMenu } from "react-icons/io5";
@@ -22,9 +23,9 @@ const Header = () => {
         <div>
           <Link to="/">
             <img
-              src={logo}
+              src={comicoslogo}
               alt="log-alt-text"
-              className="h-12 w-14 rounded-full ml-6"
+              className="h-14 w-14 rounded-full ml-6"
             />
           </Link>
         </div>
@@ -51,9 +52,9 @@ const Header = () => {
           <div>
             <Link to="/">
               <img
-                src={logo}
+                src={comicoslogo}
                 alt="log-alt-text"
-                className="h-12 w-14 rounded-full"
+                className="h-14 w-14 rounded-full"
               />
             </Link>
           </div>

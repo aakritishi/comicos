@@ -53,12 +53,8 @@ const GalleryComp = () => {
           >
             <img
               src={galleryMap[data.image]}
-              alt={data.title}
               className="w-full h-75 object-cover rounded-md"
             />
-            <h1 className="font-normal text-[24px] text-center mt-3">
-              {data.title}
-            </h1>
           </div>
         ))}
 
@@ -66,12 +62,8 @@ const GalleryComp = () => {
           <div key={data.id} className="bg-[#dcd9d9] rounded-t-lg">
             <img
               src={galleryMap[data.image]}
-              alt={data.title}
               className="w-full h-75 object-cover rounded-md"
             />
-            <h1 className="font-normal text-[24px] text-center mt-3">
-              {data.title}
-            </h1>
           </div>
         ))}
       </div>
