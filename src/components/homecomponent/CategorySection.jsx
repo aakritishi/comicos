@@ -2,7 +2,7 @@ import React from 'react'
 import gallery1 from "../../assets/gallery/gallery6.jpeg";
 import gallery2 from "../../assets/gallery/gallery8.jpeg";
 import gallery3 from "../../assets/gallery/gallery3.jpeg";
-import category from "../data/category.json"
+import category from "../../data/category.json"
 
 const imageMap ={
     "gallery1.jpeg": gallery1,

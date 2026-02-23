@@ -1,5 +1,5 @@
 import React from 'react'
-import shop from "../data/shop.json"
+import shop from "../../data/shop.json"
 import gallery8 from "../../assets/gallery/gallery8.jpeg";
 import gallery10 from "../../assets/gallery/gallery10.jpeg";
 import gallery16 from "../../assets/gallery/gallery16.jpeg";

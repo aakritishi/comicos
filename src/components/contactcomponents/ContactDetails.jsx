@@ -3,8 +3,8 @@ import { FaClock, FaQuestionCircle } from "react-icons/fa";
 import { FaLocationDot, FaPhone } from "react-icons/fa6";
 import { IoShieldCheckmarkSharp } from "react-icons/io5";
 import { MdEmail } from "react-icons/md";
-import contactdetails from "../data/contactdetails..json";
-import contactdetails2 from "../data/contactdetails2.json";
+import contactdetails from "../../data/contactdetails..json";
+import contactdetails2 from "../../data/contactdetails2.json";
 
 const ContactDetails = () => {
   const iconMap = {
